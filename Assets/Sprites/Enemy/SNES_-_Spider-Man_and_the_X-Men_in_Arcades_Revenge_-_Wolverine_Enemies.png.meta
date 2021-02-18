@@ -1,0 +1,3780 @@
+fileFormatVersion: 2
+guid: 3bc0e71fe6b05d54b92962f72892b359
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4143132543478688149
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_0
+  - first:
+      213: 6248696980748404946
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_1
+  - first:
+      213: 2140672414072716103
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_2
+  - first:
+      213: 8673508352710299650
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_3
+  - first:
+      213: 2291853058619945669
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_4
+  - first:
+      213: 1287665490835587482
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_5
+  - first:
+      213: -9173971004607297481
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_6
+  - first:
+      213: 7552337548939420228
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_7
+  - first:
+      213: -7810691398358014086
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_8
+  - first:
+      213: -6237602014921965242
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_9
+  - first:
+      213: 6299531841798991307
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_10
+  - first:
+      213: -4895157513191706889
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_11
+  - first:
+      213: -284909455025922699
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_12
+  - first:
+      213: -5214963649986125445
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_13
+  - first:
+      213: -4346239529109215130
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_14
+  - first:
+      213: 5461408313403216111
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_15
+  - first:
+      213: 4727988291871949903
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_16
+  - first:
+      213: 6808530347416905962
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_17
+  - first:
+      213: -7797858249525292075
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_18
+  - first:
+      213: -2511148642205130413
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_19
+  - first:
+      213: -609300988136800890
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_20
+  - first:
+      213: 1332108142997350646
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_21
+  - first:
+      213: 1901979822743864530
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_22
+  - first:
+      213: 4473342108482567164
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_23
+  - first:
+      213: -7545489538476419625
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_24
+  - first:
+      213: -4265516525101520896
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_25
+  - first:
+      213: 2949359834547106365
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_26
+  - first:
+      213: -839861569668437286
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_27
+  - first:
+      213: 3894817907501903471
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_28
+  - first:
+      213: 9090748333704851252
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_29
+  - first:
+      213: -7343473268422474159
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_30
+  - first:
+      213: -3341897401305192244
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_31
+  - first:
+      213: -8739979787321380098
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_32
+  - first:
+      213: -5107056718989893929
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_33
+  - first:
+      213: 7566613569122645611
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_34
+  - first:
+      213: 1123052277750390473
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_35
+  - first:
+      213: 2982294719733253788
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_36
+  - first:
+      213: 5431996069889999034
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_37
+  - first:
+      213: -8617743231042196895
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_38
+  - first:
+      213: 1114198095074070261
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_39
+  - first:
+      213: 2979354315657558483
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_40
+  - first:
+      213: -7973461656435806953
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_41
+  - first:
+      213: -7711341726640347365
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_42
+  - first:
+      213: 9022032335969549115
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_43
+  - first:
+      213: 4764730087553012560
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_44
+  - first:
+      213: 754036104912172944
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_45
+  - first:
+      213: 5270056298848369715
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_46
+  - first:
+      213: 8080553812382826033
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_47
+  - first:
+      213: 3440091247566274078
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_48
+  - first:
+      213: -1079820074270371709
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_49
+  - first:
+      213: 8161270701683883450
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_50
+  - first:
+      213: 8340018593002761100
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_51
+  - first:
+      213: 8834899459237333508
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_52
+  - first:
+      213: -1437003046104005095
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_53
+  - first:
+      213: 3002068235725490693
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_54
+  - first:
+      213: 6400872031453129345
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_55
+  - first:
+      213: 9177051401762764730
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_56
+  - first:
+      213: 932798577676618419
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_57
+  - first:
+      213: -3898579580187852848
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_58
+  - first:
+      213: 5573037119505837532
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_59
+  - first:
+      213: 7510530394215302637
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_60
+  - first:
+      213: -8098493716376198028
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_61
+  - first:
+      213: -1837564527599011856
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_62
+  - first:
+      213: 3050102563576844115
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_63
+  - first:
+      213: 9174495948755582886
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_64
+  - first:
+      213: -5496528607356517795
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_65
+  - first:
+      213: 3502313732107815109
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_66
+  - first:
+      213: 7042870001279340852
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_67
+  - first:
+      213: 8976687879440939447
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_68
+  - first:
+      213: -3854334519639454947
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_69
+  - first:
+      213: 3874184810540440913
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_70
+  - first:
+      213: 5469782881926171837
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_71
+  - first:
+      213: -536030618703376392
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_72
+  - first:
+      213: 7411906674742885977
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_73
+  - first:
+      213: -370840904670355468
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_74
+  - first:
+      213: 4061383473565357907
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_75
+  - first:
+      213: 2299142993840060257
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_76
+  - first:
+      213: -1186092005704041184
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_77
+  - first:
+      213: 1439286417417228929
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_78
+  - first:
+      213: -6814059041693096960
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_79
+  - first:
+      213: -4612232704838165611
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_80
+  - first:
+      213: 8543689720120814898
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_81
+  - first:
+      213: 4328183763001442926
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_82
+  - first:
+      213: -9009315445836012868
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_83
+  - first:
+      213: 8217028911595262662
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_84
+  - first:
+      213: 5584598728256097090
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_85
+  - first:
+      213: -2280759870878952577
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_86
+  - first:
+      213: -1899661603125563595
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_87
+  - first:
+      213: 8926981235488823459
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_88
+  - first:
+      213: -2820438960773637608
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_89
+  - first:
+      213: 8231431416141555369
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_90
+  - first:
+      213: 5755198787068583729
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_91
+  - first:
+      213: -5348664491363340555
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_92
+  - first:
+      213: -1725420383099367304
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_93
+  - first:
+      213: -5660893904306173646
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_94
+  - first:
+      213: 6581561080450895048
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_95
+  - first:
+      213: -8188504052091557940
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_96
+  - first:
+      213: -1664328160852683480
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_97
+  - first:
+      213: -3670551848668671213
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_98
+  - first:
+      213: -1962555887592620853
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_99
+  - first:
+      213: 3686773246024983180
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_100
+  - first:
+      213: -5787253603901143982
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_101
+  - first:
+      213: 2416549204739951012
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_102
+  - first:
+      213: -7494099309488859544
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_103
+  - first:
+      213: 4028629734952618144
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_104
+  - first:
+      213: 6335763875489439260
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_105
+  - first:
+      213: 8157384855794760647
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_106
+  - first:
+      213: -221165899002308719
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_107
+  - first:
+      213: 8519926766686032404
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_108
+  - first:
+      213: 2198279385873251092
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_109
+  - first:
+      213: -1187795669799742892
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_110
+  - first:
+      213: -7400264840180914468
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_111
+  - first:
+      213: -6090713992786542494
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_112
+  - first:
+      213: -3261819003653957630
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_113
+  - first:
+      213: -2850226357502396510
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_114
+  - first:
+      213: -2844851385881576568
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_115
+  - first:
+      213: 2485676656601990037
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_116
+  - first:
+      213: 4708733196542294698
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_117
+  - first:
+      213: -4635233939962830036
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_118
+  - first:
+      213: -7111386352372895187
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_119
+  - first:
+      213: 8011321670563319653
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_120
+  - first:
+      213: 8436507588086840674
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_121
+  - first:
+      213: 8175572826070530255
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_122
+  - first:
+      213: 332920989144130181
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_123
+  - first:
+      213: 1414181839681747601
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_124
+  - first:
+      213: -945937324903345616
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_125
+  - first:
+      213: 1566825684705239407
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_126
+  - first:
+      213: 5106066233686148440
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_127
+  - first:
+      213: -7723530545509491943
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_128
+  - first:
+      213: -1867901278021221407
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_129
+  - first:
+      213: 4639765740990281324
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_130
+  - first:
+      213: 2613946804055314827
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_131
+  - first:
+      213: -6731441814712681271
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_132
+  - first:
+      213: 4347010349779040968
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_133
+  - first:
+      213: 6859272217617317202
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_134
+  - first:
+      213: -4169341138715631809
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_135
+  - first:
+      213: 3059420197925869770
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_136
+  - first:
+      213: 1438147506756332048
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_137
+  - first:
+      213: 5677713165926367973
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_138
+  - first:
+      213: 8079783187528199839
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_139
+  - first:
+      213: 5126265753195776169
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_140
+  - first:
+      213: -8922673061712265505
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_141
+  - first:
+      213: -8002071288027526599
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_142
+  - first:
+      213: 7593805318567197650
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_143
+  - first:
+      213: 6303121056773329707
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_144
+  - first:
+      213: 380714947377129223
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_145
+  - first:
+      213: 8615568904481463146
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_146
+  - first:
+      213: -1345901750337233665
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_147
+  - first:
+      213: -355470628451571796
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_148
+  - first:
+      213: -3414629051912454562
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_149
+  - first:
+      213: 4990185004181515881
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_150
+  - first:
+      213: -6329019752905511890
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_151
+  - first:
+      213: 1610382083448975035
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_152
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 368
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5996867d81d5f7930800000000000000
+      internalID: 4143132543478688149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 368
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d880960cc4d7b650800000000000000
+      internalID: 6248696980748404946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 368
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b3845083235bd10800000000000000
+      internalID: 2140672414072716103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_3
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 368
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2005eaf74ed7e5870800000000000000
+      internalID: 8673508352710299650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_4
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 370
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c23f6cc63c4ecf10800000000000000
+      internalID: 2291853058619945669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_5
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 355
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91c8ca01f4bed110800000000000000
+      internalID: 1287665490835587482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_6
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 368
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73806a22af18fa080800000000000000
+      internalID: -9173971004607297481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_7
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 368
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 442e06c9cfa4fc860800000000000000
+      internalID: 7552337548939420228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_8
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 368
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77eba65e89da9390800000000000000
+      internalID: -7810691398358014086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_9
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 370
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641c05204069f69a0800000000000000
+      internalID: -6237602014921965242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_10
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 368
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcde0b175de6c6750800000000000000
+      internalID: 6299531841798991307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_11
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 368
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7feaf9a6d28e01cb0800000000000000
+      internalID: -4895157513191706889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_12
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 368
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d97043c5ccb0cf0800000000000000
+      internalID: -284909455025922699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_13
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 368
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71a00eb03ab0a7b0800000000000000
+      internalID: -5214963649986125445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_14
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 368
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6682fa6fc2e0fa3c0800000000000000
+      internalID: -4346239529109215130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_15
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 392
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe093cddce1dacb40800000000000000
+      internalID: 5461408313403216111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_16
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 296
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44cb3f2d403d9140800000000000000
+      internalID: 4727988291871949903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_17
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 296
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae860402742cc7e50800000000000000
+      internalID: 6808530347416905962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_18
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 354
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d31234ac3178c390800000000000000
+      internalID: -7797858249525292075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_19
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 353
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351a8235d9b962dd0800000000000000
+      internalID: -2511148642205130413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_20
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 353
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68dbfc0caf35b87f0800000000000000
+      internalID: -609300988136800890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_21
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 353
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f823c95c499c7210800000000000000
+      internalID: 1332108142997350646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_22
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 353
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4cb985290356a10800000000000000
+      internalID: 1901979822743864530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_23
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 353
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb76e662f0841e30800000000000000
+      internalID: 4473342108482567164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_24
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 352
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5dfa21e39094790800000000000000
+      internalID: -7545489538476419625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_25
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 353
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008e3c1f157ddc4c0800000000000000
+      internalID: -4265516525101520896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_26
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 352
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d323cf4a42b3ee820800000000000000
+      internalID: 2949359834547106365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_27
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 352
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada29672a563854f0800000000000000
+      internalID: -839861569668437286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_28
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 354
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e2b71504c2d0630800000000000000
+      internalID: 3894817907501903471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_29
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 354
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fa3f4d173d82e70800000000000000
+      internalID: 9090748333704851252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_30
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 296
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1560a1248fdb61a90800000000000000
+      internalID: -7343473268422474159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_31
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 313
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8276705023f91d0800000000000000
+      internalID: -3341897401305192244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_32
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 313
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef27d9890ba55b680800000000000000
+      internalID: -8739979787321380098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_33
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 313
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ded5d0f8f61029b0800000000000000
+      internalID: -5107056718989893929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_34
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 313
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66b43493f2020960800000000000000
+      internalID: 7566613569122645611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_35
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 310
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce518fa812e59f00800000000000000
+      internalID: 1123052277750390473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_36
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 297
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9649392f3d336920800000000000000
+      internalID: 2982294719733253788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_37
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 304
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab08c1745a3526b40800000000000000
+      internalID: 5431996069889999034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_38
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 320
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ae33ca030a76880800000000000000
+      internalID: -8617743231042196895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_39
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 296
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe8e42a34d667f00800000000000000
+      internalID: 1114198095074070261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_40
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 296
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9bbccf6fac85920800000000000000
+      internalID: 2979354315657558483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_41
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 296
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d22f16ed2985190800000000000000
+      internalID: -7973461656435806953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_42
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 296
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1764f95e8fcbf490800000000000000
+      internalID: -7711341726640347365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_43
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 240
+        width: 51
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b7d89db92b43d70800000000000000
+      internalID: 9022032335969549115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_44
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 240
+        width: 51
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053963f15c8bf1240800000000000000
+      internalID: 4764730087553012560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_45
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 240
+        width: 51
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097fb15a7dfd67a00800000000000000
+      internalID: 754036104912172944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_46
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 240
+        width: 51
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cba272840032940800000000000000
+      internalID: 5270056298848369715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_47
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 240
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13eb18731e4e32070800000000000000
+      internalID: 8080553812382826033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_48
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 240
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e3e1663c8adbf20800000000000000
+      internalID: 3440091247566274078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_49
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 240
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38057c31d55b301f0800000000000000
+      internalID: -1079820074270371709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_50
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 240
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abdbba18678a24170800000000000000
+      internalID: 8161270701683883450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_51
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 240
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b251819b2bdb370800000000000000
+      internalID: 8340018593002761100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_52
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 240
+        width: 36
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ac126bf3edb9a70800000000000000
+      internalID: 8834899459237333508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_53
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 136
+        width: 120
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91601d7d75dbe0ce0800000000000000
+      internalID: -1437003046104005095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_54
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 136
+        width: 120
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ac6ed972d79a920800000000000000
+      internalID: 3002068235725490693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_55
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 136
+        width: 120
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18a2f77033774d850800000000000000
+      internalID: 6400872031453129345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_56
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 200
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7f197b0af6b5f70800000000000000
+      internalID: 9177051401762764730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_57
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 200
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba876d3d57f1fc00800000000000000
+      internalID: 932798577676618419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_58
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 208
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfbf42078675e9c0800000000000000
+      internalID: -3898579580187852848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_59
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 212
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd2634abb7675d40800000000000000
+      internalID: 5573037119505837532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_60
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 183
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de54afdd993ca3860800000000000000
+      internalID: 7510530394215302637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_61
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 178
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474e9a36fde5c9f80800000000000000
+      internalID: -8098493716376198028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_62
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 181
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f73a984cc8af76e0800000000000000
+      internalID: -1837564527599011856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_63
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f81861f14245a20800000000000000
+      internalID: 3050102563576844115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_64
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 176
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af36d2f47b525f70800000000000000
+      internalID: 9174495948755582886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_65
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 137
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d520ebc7a5868b3b0800000000000000
+      internalID: -5496528607356517795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_66
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 137
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8424688c7ba9030800000000000000
+      internalID: 3502313732107815109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_67
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 144
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 431928193fc4db160800000000000000
+      internalID: 7042870001279340852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_68
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 56
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9b1a9d01a939c70800000000000000
+      internalID: 8976687879440939447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_69
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 56
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b4d5fec27a28ac0800000000000000
+      internalID: -3854334519639454947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_70
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 56
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d1a721f8ed3c530800000000000000
+      internalID: 3874184810540440913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_71
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 56
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbcc8bb0d8298eb40800000000000000
+      internalID: 5469782881926171837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_72
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 56
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffc3770ef2af88f0800000000000000
+      internalID: -536030618703376392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_73
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 56
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e7568c9d16cd660800000000000000
+      internalID: 7411906674742885977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_74
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 88
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff50f879228adaf0800000000000000
+      internalID: -370840904670355468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_75
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 56
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357518640ceec5830800000000000000
+      internalID: 4061383473565357907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_76
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 56
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1673aab1f5238ef10800000000000000
+      internalID: 2299142993840060257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_77
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 56
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d7411ea972a8fe0800000000000000
+      internalID: -1186092005704041184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_78
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 48
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182d238fe5f59f310800000000000000
+      internalID: 1439286417417228929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_79
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004285d67699f61a0800000000000000
+      internalID: -6814059041693096960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_80
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b9ea6aace0effb0800000000000000
+      internalID: -4612232704838165611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_81
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d25f6b888419670800000000000000
+      internalID: 8543689720120814898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_82
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e628054633cc01c30800000000000000
+      internalID: 4328183763001442926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_83
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2218dd55b78f280800000000000000
+      internalID: -9009315445836012868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_84
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c210c86240c80270800000000000000
+      internalID: 8217028911595262662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_85
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b8dc274fa708d40800000000000000
+      internalID: 5584598728256097090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f735b4e3bfc1950e0800000000000000
+      internalID: -2280759870878952577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_87
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f604836db03a5e0800000000000000
+      internalID: -1899661603125563595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_88
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a893e1f22203eb70800000000000000
+      internalID: 8926981235488823459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_89
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a5a6065b9cbd8d0800000000000000
+      internalID: -2820438960773637608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_90
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6ab10d24beb3270800000000000000
+      internalID: 8231431416141555369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_91
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f5bf2fdc29edf40800000000000000
+      internalID: 5755198787068583729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_92
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5feea89cbf9b5c5b0800000000000000
+      internalID: -5348664491363340555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_93
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870d421ad431e08e0800000000000000
+      internalID: -1725420383099367304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_94
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 32
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23908aa9cf67071b0800000000000000
+      internalID: -5660893904306173646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_95
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cccfcb9ee6665b50800000000000000
+      internalID: 6581561080450895048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_96
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc76c3df2f69c5e80800000000000000
+      internalID: -8188504052091557940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_97
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82552be0b5e17e8e0800000000000000
+      internalID: -1664328160852683480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_98
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31353728a849f0dc0800000000000000
+      internalID: -3670551848668671213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_99
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccb03c71d993c4e0800000000000000
+      internalID: -1962555887592620853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_100
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82abb0ebbc0a2330800000000000000
+      internalID: 3686773246024983180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_101
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2548f5a628b8fafa0800000000000000
+      internalID: -5787253603901143982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_102
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a907c2c2be498120800000000000000
+      internalID: 2416549204739951012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_103
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8669a6a226c9ff790800000000000000
+      internalID: -7494099309488859544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_104
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a84d6b366198e730800000000000000
+      internalID: 4028629734952618144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_105
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1edc4b2da72de750800000000000000
+      internalID: 6335763875489439260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_106
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb3cc18e4ad43170800000000000000
+      internalID: 8157384855794760647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_107
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197998169c24eecf0800000000000000
+      internalID: -221165899002308719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_108
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412d9a8f04cdc3670800000000000000
+      internalID: 8519926766686032404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_109
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 25
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bf908547bd18e10800000000000000
+      internalID: 2198279385873251092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_110
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452d6dba12a148fe0800000000000000
+      internalID: -1187795669799742892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_111
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6243d065afc4990800000000000000
+      internalID: -7400264840180914468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_112
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260057fb4ef697ba0800000000000000
+      internalID: -6090713992786542494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_113
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2085695e5e0bbb2d0800000000000000
+      internalID: -3261819003653957630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_114
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a73d9f9a36f178d0800000000000000
+      internalID: -2850226357502396510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_115
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 24
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b30c9bcbe0588d0800000000000000
+      internalID: -2844851385881576568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_116
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5930e3fdfb5ee7220800000000000000
+      internalID: 2485676656601990037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_117
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa3ef1f4e7c85140800000000000000
+      internalID: 4708733196542294698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_118
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c236ea54a475cafb0800000000000000
+      internalID: -4635233939962830036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_119
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22b04e4ac74f4d90800000000000000
+      internalID: -7111386352372895187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_120
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fc0531d9eed2f60800000000000000
+      internalID: 8011321670563319653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_121
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26dbdcce3fe741570800000000000000
+      internalID: 8436507588086840674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_122
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc835455b28757170800000000000000
+      internalID: 8175572826070530255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_123
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 24
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582253030e5ce9400800000000000000
+      internalID: 332920989144130181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_124
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19af90af3ee20a310800000000000000
+      internalID: 1414181839681747601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_125
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0325a59c30b5fd2f0800000000000000
+      internalID: -945937324903345616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_126
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6160d9a8ab7eb510800000000000000
+      internalID: 1566825684705239407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_127
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855ca7abf246cd640800000000000000
+      internalID: 5106066233686148440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_128
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 16
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b170fc3e180d490800000000000000
+      internalID: -7723530545509491943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_129
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e30c082fa1e316e0800000000000000
+      internalID: -1867901278021221407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_130
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 16
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66b0c0eb52c36040800000000000000
+      internalID: 4639765740990281324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_131
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 16
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b811c7dd4ca964420800000000000000
+      internalID: 2613946804055314827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_132
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 16
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccf6df855d1592a0800000000000000
+      internalID: -6731441814712681271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_133
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cab685b1eea35c30800000000000000
+      internalID: 4347010349779040968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_134
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d39cc6db7013f50800000000000000
+      internalID: 6859272217617317202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_135
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f9e6f03568326c0800000000000000
+      internalID: -4169341138715631809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_136
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8d604e57e357a20800000000000000
+      internalID: 3059420197925869770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_137
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a23daa98355f310800000000000000
+      internalID: 1438147506756332048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_138
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e28997ea0a4bce40800000000000000
+      internalID: 5677713165926367973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_139
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9eaac22008212070800000000000000
+      internalID: 8079783187528199839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_140
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a80c7bda87242740800000000000000
+      internalID: 5126265753195776169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_141
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde71bdef1c4c2480800000000000000
+      internalID: -8922673061712265505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_142
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a44c17f8ee2f090800000000000000
+      internalID: -8002071288027526599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_143
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db7baa14bd926960800000000000000
+      internalID: 7593805318567197650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_144
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b23524da43f297750800000000000000
+      internalID: 6303121056773329707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_145
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707681f3a32984500800000000000000
+      internalID: 380714947377129223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_146
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bd4897546a09770800000000000000
+      internalID: 8615568904481463146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_147
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffc929c2d75625de0800000000000000
+      internalID: -1345901750337233665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_148
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca72f07c85d111bf0800000000000000
+      internalID: -355470628451571796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_149
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e770108fccc90d0800000000000000
+      internalID: -3414629051912454562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_150
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e68b972d2b04540800000000000000
+      internalID: 4990185004181515881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_151
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ce2ab311eca28a0800000000000000
+      internalID: -6329019752905511890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_152
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe21a409f9395610800000000000000
+      internalID: 1610382083448975035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

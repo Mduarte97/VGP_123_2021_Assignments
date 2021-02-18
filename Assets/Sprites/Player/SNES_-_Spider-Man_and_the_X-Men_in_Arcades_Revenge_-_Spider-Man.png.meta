@@ -1,0 +1,1428 @@
+fileFormatVersion: 2
+guid: fe85e4e25b2ea7c46b97f4d00c8419e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2120818949851718165
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_0
+  - first:
+      213: -4863215696076885518
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_1
+  - first:
+      213: 4059465256408094641
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_2
+  - first:
+      213: 7151501238457225034
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_3
+  - first:
+      213: 5907907516057210428
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_4
+  - first:
+      213: 2639774926960075781
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_5
+  - first:
+      213: -2688695496605892125
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_6
+  - first:
+      213: -7425919282540428655
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_7
+  - first:
+      213: 5023495851670554652
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_8
+  - first:
+      213: 8503236972579007021
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_9
+  - first:
+      213: 7184398564436974999
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_10
+  - first:
+      213: 7809594695301922045
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_11
+  - first:
+      213: -7430537973978174232
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_12
+  - first:
+      213: 4905114894552700835
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_13
+  - first:
+      213: -1907405723759244997
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_14
+  - first:
+      213: -2780087718628819556
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_15
+  - first:
+      213: -2854951475644177142
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_16
+  - first:
+      213: -7335732106867984168
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_17
+  - first:
+      213: -1130233800316082773
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_18
+  - first:
+      213: 9124577967067746433
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_19
+  - first:
+      213: -4686617478467307645
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_20
+  - first:
+      213: 7895381059504666776
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_21
+  - first:
+      213: 170933093551708850
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_22
+  - first:
+      213: 3471240331104386110
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_23
+  - first:
+      213: 5549775811139734473
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_24
+  - first:
+      213: -8837751041739843106
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_25
+  - first:
+      213: 2792949450563784796
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_26
+  - first:
+      213: 5911892414608342467
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_27
+  - first:
+      213: -1703067351630494375
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_28
+  - first:
+      213: -3837483342518992625
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_29
+  - first:
+      213: 5219443301661794888
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_30
+  - first:
+      213: 7741876973422923326
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_31
+  - first:
+      213: -8264158424781753124
+    second: SpidermanPowerUp2
+  - first:
+      213: -4474952114692804731
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_33
+  - first:
+      213: -6583506521210191150
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_34
+  - first:
+      213: 2666815283195612918
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_35
+  - first:
+      213: -3743869238400502614
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_36
+  - first:
+      213: 600632893001341637
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_37
+  - first:
+      213: -1113428887738134085
+    second: SpidermanPowerUp
+  - first:
+      213: 5457107999780361304
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_39
+  - first:
+      213: 7235341631430068776
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_40
+  - first:
+      213: -7932538775981420307
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_41
+  - first:
+      213: -1870940778308747759
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_42
+  - first:
+      213: -3364250253266579630
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_43
+  - first:
+      213: 4195907486041417795
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_44
+  - first:
+      213: -763884442503993228
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_45
+  - first:
+      213: 2251562687950146787
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_46
+  - first:
+      213: 2250902097052018240
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_47
+  - first:
+      213: 8190061002887825045
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_48
+  - first:
+      213: 5120077639754409186
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_49
+  - first:
+      213: -3945288238950171190
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_50
+  - first:
+      213: 3633313970099621668
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_51
+  - first:
+      213: 1388011326215124614
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_52
+  - first:
+      213: -7671445440842788306
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_53
+  - first:
+      213: 5481958865912421165
+    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_54
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 75
+        width: 48
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beddb25d6665192e0800000000000000
+      internalID: -2120818949851718165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 212
+        width: 61
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1bb314713628cb0800000000000000
+      internalID: -4863215696076885518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 161
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b79e3a842e165830800000000000000
+      internalID: 4059465256408094641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_3
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 161
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f42017c7c3f3360800000000000000
+      internalID: 7151501238457225034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_4
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 161
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e437c959a1df150800000000000000
+      internalID: 5907907516057210428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 161
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50420785f4d52a420800000000000000
+      internalID: 2639774926960075781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 153
+        width: 93
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e10d9fe0b5dfaad0800000000000000
+      internalID: -2688695496605892125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_7
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 153
+        width: 32
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1924479b1c5d1f890800000000000000
+      internalID: -7425919282540428655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_8
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 153
+        width: 39
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18c8798cda07b540800000000000000
+      internalID: 5023495851670554652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_9
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 153
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a2a8779f0910670800000000000000
+      internalID: 8503236972579007021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_10
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 102
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d97160e6c14b360800000000000000
+      internalID: 7184398564436974999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_11
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 102
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfcfe359ff0416c60800000000000000
+      internalID: 7809594695301922045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_12
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 102
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eceaf2d41d61e890800000000000000
+      internalID: -7430537973978174232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_13
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 102
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a79a481208721440800000000000000
+      internalID: 4905114894552700835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_14
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 102
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3988c0a9988785e0800000000000000
+      internalID: -1907405723759244997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_15
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 102
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9df3be03f42b69d0800000000000000
+      internalID: -2780087718628819556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_16
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 94
+        width: 39
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a05604352cc2168d0800000000000000
+      internalID: -2854951475644177142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_17
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 94
+        width: 40
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8b4b2e38e323a90800000000000000
+      internalID: -7335732106867984168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 67
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5250bc85a9050f0800000000000000
+      internalID: -1130233800316082773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_19
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 43
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180dd64215301ae70800000000000000
+      internalID: 9124577967067746433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_20
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 43
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387b1ddeb3ac5feb0800000000000000
+      internalID: -4686617478467307645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_21
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 43
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8987f1afd37029d60800000000000000
+      internalID: 7895381059504666776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_22
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 35
+        width: 23
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba12813eb64f5200800000000000000
+      internalID: 170933093551708850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_23
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 35
+        width: 23
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c7c7190b25c2030800000000000000
+      internalID: 3471240331104386110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_24
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 35
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb0a0e32b3c40d40800000000000000
+      internalID: 5549775811139734473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 46
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed912cf70400a5580800000000000000
+      internalID: -8837751041739843106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_26
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 59
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c501a744abc82c620800000000000000
+      internalID: 2792949450563784796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_27
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 35
+        width: 24
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd7e0b14d24b0250800000000000000
+      internalID: 5911892414608342467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_28
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 35
+        width: 40
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955cf75544d7d58e0800000000000000
+      internalID: -1703067351630494375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_29
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f014da95b358ebac0800000000000000
+      internalID: -3837483342518992625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_30
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 36
+        width: 29
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842e7d077003f6840800000000000000
+      internalID: 5219443301661794888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_31
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 16
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e46afc61ca07b60800000000000000
+      internalID: 7741876973422923326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpidermanPowerUp2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 20
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4f453b2bfcf4d80800000000000000
+      internalID: -8264158424781753124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f2ad0d2c6c5e1c0800000000000000
+      internalID: -4474952114692804731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_34
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d28cca23bfa2a4a0800000000000000
+      internalID: -6583506521210191150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_35
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe0574ee5e620520800000000000000
+      internalID: 2666815283195612918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_36
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa430a773ca1b0cc0800000000000000
+      internalID: -3743869238400502614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_37
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 16
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca92c31f60e55800800000000000000
+      internalID: 600632893001341637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpidermanPowerUp
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 20
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1d5b7635e4c80f0800000000000000
+      internalID: -1113428887738134085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_39
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 854d9d310da8bbb40800000000000000
+      internalID: 5457107999780361304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_40
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a0cf911e8196460800000000000000
+      internalID: 7235341631430068776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_41
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de09d9af206f9e190800000000000000
+      internalID: -7932538775981420307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_42
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e3d1956451906e0800000000000000
+      internalID: -1870940778308747759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_43
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 2
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f078e1838cf41d0800000000000000
+      internalID: -3364250253266579630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_44
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348a6efa0abda3a30800000000000000
+      internalID: 4195907486041417795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_45
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 2
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4782a1395232665f0800000000000000
+      internalID: -763884442503993228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_46
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eccaccd5582f3f10800000000000000
+      internalID: 2251562687950146787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_47
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046a7fe088fcc3f10800000000000000
+      internalID: 2250902097052018240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_48
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59688edd611f8a170800000000000000
+      internalID: 8190061002887825045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_49
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 2
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e46bfb6c7b2e0740800000000000000
+      internalID: 5120077639754409186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_50
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd39dcef358f39c0800000000000000
+      internalID: -3945288238950171190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_51
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 2
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f80414ecf1c6230800000000000000
+      internalID: 3633313970099621668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_52
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686754b72f4334310800000000000000
+      internalID: 1388011326215124614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_53
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 2
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2296c0440d898590800000000000000
+      internalID: -7671445440842788306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Spider-Man_54
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b530c3b84d31c40800000000000000
+      internalID: 5481958865912421165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
