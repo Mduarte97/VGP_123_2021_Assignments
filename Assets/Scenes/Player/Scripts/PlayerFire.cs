@@ -42,7 +42,7 @@ public class PlayerFire : MonoBehaviour
     {
         if (spidermanSprite.flipX)
         {
-            Debug.Log("Fire Left Side");
+            
             Projectile projectileInstance = Instantiate(projectilePrefab, spawnPointLeft.position, spawnPointLeft.rotation);
             projectileInstance.speed = -projectileSpeed;
 
@@ -53,7 +53,7 @@ public class PlayerFire : MonoBehaviour
         }
         else
         {
-            Debug.Log("Fire Right Side");
+           
             Projectile projectileInstance = Instantiate(projectilePrefab, spawnPointRight.position, spawnPointRight.rotation);
             projectileInstance.speed = projectileSpeed;
 

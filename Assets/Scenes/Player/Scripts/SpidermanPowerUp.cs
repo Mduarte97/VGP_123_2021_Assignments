@@ -4,16 +4,60 @@ using UnityEngine;
 
 public class SpidermanPowerUp : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void OnTriggerEnter2D(Collider2D collision)
+    public enum CollectibleType
     {
-        if (collision.gameObject.name == "Player")
-        {
-            Destroy(gameObject);
-            Debug.Log("hello");
-        }
-
-
+        POWERUP,
+        COLLECTIBLE,
+        LIVES,
+        KEY,
+        POWERUPWEBSHOT
     }
 
+    public CollectibleType currentcollectible;
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.tag == "Player")
+        {
+            switch (currentcollectible)
+            {
+                case CollectibleType.COLLECTIBLE:
+                    Debug.Log("Collectible");
+                    collision.GetComponent<PlayerMovement>().score++;
+                    Destroy(gameObject);
+                    break;
+
+                case CollectibleType.LIVES:
+                    Debug.Log("Lives");
+                    collision.GetComponent<PlayerMovement>().lives++;
+                    Destroy(gameObject);
+                    break;
+
+                case CollectibleType.POWERUP:
+                    collision.GetComponent<PlayerMovement>
+                        ().StartJumpForceChange();
+                    Destroy(gameObject);
+                    Debug.Log("PowerUp");
+                    break;
+
+
+                case CollectibleType.POWERUPWEBSHOT:
+                    collision.GetComponent<PlayerMovement>
+                        ().StartJumpForceChange();
+                    Destroy(gameObject);
+                    Debug.Log("PowerUpWebshot");
+                    break;
+
+                case CollectibleType.KEY:
+                    collision.GetComponent<PlayerMovement>
+                        ().StartJumpForceChange();
+                    Destroy(gameObject);
+                    Debug.Log("Key");
+                    break;
+
+            }
+        }
+
+       
+    }
 }

@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Pickups
   layers:
   - Default
   - TransparentFX
@@ -43,4 +44,7 @@ TagManager:
     locked: 0
   - name: Player Layer
     uniqueID: 346237387
+    locked: 0
+  - name: Playarea
+    uniqueID: 2057106001
     locked: 0

@@ -33,6 +33,10 @@ public class Projectile : MonoBehaviour
         }
     }
 
-
+    private void OnTriggerEnter(Collider2D collision)
+    {
+       if (collision.gameObject.tag != "Player")
+        Destroy(gameObject);
+    }
 
 }
