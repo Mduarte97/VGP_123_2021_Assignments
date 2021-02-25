@@ -18,6 +18,21 @@ public class PlayerMovement : MonoBehaviour
     public Transform groundCheck;
     public float groundCheckRadius;
 
+<<<<<<< Updated upstream
+=======
+   
+
+    int _score = 0;
+    public int score
+    {
+        get { return _score; }
+        set
+        {
+            _score = value;
+            Debug.Log("Current Score is" + _score);
+        }
+    }
+>>>>>>> Stashed changes
 
 
     // Start is called before the first frame update
@@ -26,6 +41,7 @@ public class PlayerMovement : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
         spidermanSprite = GetComponent<SpriteRenderer>();
+   
 
         if (speed <= 0)
         {
@@ -77,4 +93,43 @@ public class PlayerMovement : MonoBehaviour
 
     }
 
+<<<<<<< Updated upstream
 }
+=======
+    public void StartJumpForceChange()
+    {
+        StartCoroutine(JumpForceChange());
+    }
+
+    IEnumerator JumpForceChange()
+    {
+        jumpForce = 5000;
+        yield return new WaitForSeconds(2.0f);
+        jumpForce = 2500;
+    }
+
+  
+
+     void OnTriggerStay2D (Collider2D collision)
+    {
+        if (collision.gameObject.tag == "Pickups")
+        {
+            SpidermanPowerUp curPickups = collision.GetComponent<SpidermanPowerUp>();
+            if (Input.GetKeyDown(KeyCode.E))
+            {
+                switch (curPickups.currentcollectible)
+                {
+                    case SpidermanPowerUp.CollectibleType.KEY:
+                        Destroy(collision.gameObject);
+
+                        break;
+
+
+                }
+            }
+        }
+    }
+
+    
+}
+>>>>>>> Stashed changes
