@@ -114,9 +114,9 @@ public class PlayerMovement : MonoBehaviour
 
     IEnumerator JumpForceChange()
     {
-        jumpForce = 2000;
+        jumpForce = 5000;
         yield return new WaitForSeconds(2.0f);
-        jumpForce = 1500;
+        jumpForce = 2500;
     }
 
     private void OnTriggerStay2D(Collider2D collision)
@@ -124,13 +124,16 @@ public class PlayerMovement : MonoBehaviour
         if (collision.gameObject.tag == "Pickups")
         {
             SpidermanPowerUp curPickups = collision.GetComponent<SpidermanPowerUp>();
-                switch (curPickups.currentcollectible)
+            if (Input.GetKeyDown(KeyCode.E))
             {
-                case SpidermanPowerUp.CollectibleType.KEY:
+                switch (curPickups.currentcollectible)
+                {
+                    case SpidermanPowerUp.CollectibleType.KEY:
+                        Destroy(collision.gameObject);
+                        break;
 
-                    break;
 
-
+                }
             }
         }
     }

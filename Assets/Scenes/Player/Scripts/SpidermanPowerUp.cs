@@ -42,18 +42,17 @@ public class SpidermanPowerUp : MonoBehaviour
 
 
                 case CollectibleType.POWERUPWEBSHOT:
-                    collision.GetComponent<PlayerMovement>
-                        ().StartJumpForceChange();
+                    collision.GetComponent<PlayerMovement>();
                     Destroy(gameObject);
                     Debug.Log("PowerUpWebshot");
                     break;
 
                 case CollectibleType.KEY:
-                    collision.GetComponent<PlayerMovement>
-                        ().StartJumpForceChange();
-                    Destroy(gameObject);
-                    Debug.Log("Key");
+                    collision.GetComponent<PlayerMovement>();
+                    Debug.Log("key");
                     break;
+
+
 
             }
         }
