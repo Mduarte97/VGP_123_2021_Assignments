@@ -1,0 +1,972 @@
+fileFormatVersion: 2
+guid: 672ee65b0fefb834e867b9958e94ba7f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4875784632675406121
+    second: Bridge
+  - first:
+      213: -2661719716146331792
+    second: Bridge 1
+  - first:
+      213: 6352862538732304198
+    second: Bridge 2
+  - first:
+      213: -2333332438557355587
+    second: Bridge 3
+  - first:
+      213: -455749315692114029
+    second: Bridge 4
+  - first:
+      213: -4134044544095673896
+    second: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_5
+  - first:
+      213: -2244153049417019042
+    second: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_6
+  - first:
+      213: 508145998113705913
+    second: Background1
+  - first:
+      213: -2619652492514711297
+    second: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_8
+  - first:
+      213: -3022021370163259786
+    second: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_9
+  - first:
+      213: -2097401958080812317
+    second: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_10
+  - first:
+      213: 2772757895064016184
+    second: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_11
+  - first:
+      213: 2609201396562617260
+    second: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_12
+  - first:
+      213: -3922681923921188039
+    second: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_13
+  - first:
+      213: 6738806548289254749
+    second: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_14
+  - first:
+      213: -3034676980402530185
+    second: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_15
+  - first:
+      213: 7268802375867832811
+    second: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_16
+  - first:
+      213: 8245955623703030027
+    second: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_17
+  - first:
+      213: -4259102756883281141
+    second: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_18
+  - first:
+      213: 8172243910028351028
+    second: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_19
+  - first:
+      213: 3412893256455771909
+    second: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_20
+  - first:
+      213: 2136867824077136558
+    second: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_21
+  - first:
+      213: 4741905449133402638
+    second: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_22
+  - first:
+      213: -4505424222873688024
+    second: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_23
+  - first:
+      213: -4279274474042651984
+    second: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_24
+  - first:
+      213: -3097030401740563367
+    second: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_25
+  - first:
+      213: 5325533525178994169
+    second: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_26
+  - first:
+      213: -5328076688793989388
+    second: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_27
+  - first:
+      213: 7117172940271516414
+    second: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_28
+  - first:
+      213: 8126918340038239913
+    second: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_29
+  - first:
+      213: -3953541610136022970
+    second: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_30
+  - first:
+      213: 8579061534700329391
+    second: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_31
+  - first:
+      213: -6599055706994081282
+    second: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_32
+  - first:
+      213: 8252823916065398392
+    second: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_33
+  - first:
+      213: -3090878949989806375
+    second: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_34
+  - first:
+      213: -3118470751394008294
+    second: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bridge
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 233
+        width: 1392
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dee218a5bbb55cb0800000000000000
+      internalID: -4875784632675406121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge 1
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 233
+        width: 560
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fb173450caf0bd0800000000000000
+      internalID: -2661719716146331792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge 2
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 233
+        width: 224
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6477600f1d6e92850800000000000000
+      internalID: 6352862538732304198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge 3
+      rect:
+        serializedVersion: 2
+        x: 2512
+        y: 233
+        width: 224
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db194e872865e9fd0800000000000000
+      internalID: -2333332438557355587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bridge 4
+      rect:
+        serializedVersion: 2
+        x: 2848
+        y: 233
+        width: 1440
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f4b8b796adca9f0800000000000000
+      internalID: -455749315692114029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_5
+      rect:
+        serializedVersion: 2
+        x: 4349
+        y: 302
+        width: 5
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d12987e36ce0a6c0800000000000000
+      internalID: -4134044544095673896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_6
+      rect:
+        serializedVersion: 2
+        x: 4388
+        y: 233
+        width: 96
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5193eb01ba2bd0e0800000000000000
+      internalID: -2244153049417019042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 512
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf8a9fc71c4d0700800000000000000
+      internalID: 508145998113705913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_8
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 207
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8a1b400ff15abd0800000000000000
+      internalID: -2619652492514711297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_9
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 203
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67697cf339f9f06d0800000000000000
+      internalID: -3022021370163259786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_10
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 203
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea6269180884e2e0800000000000000
+      internalID: -2097401958080812317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_11
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 207
+        width: 53
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83553776d90da7620800000000000000
+      internalID: 2772757895064016184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_12
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 187
+        width: 41
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3619598deb53420800000000000000
+      internalID: 2609201396562617260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_13
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 183
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93be4ddc295df89c0800000000000000
+      internalID: -3922681923921188039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_14
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 187
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d557bd81adc058d50800000000000000
+      internalID: 6738806548289254749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_15
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 187
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7785d0f5d59a2e5d0800000000000000
+      internalID: -3034676980402530185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_16
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 187
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be91e14cf39ffd460800000000000000
+      internalID: 7268802375867832811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_17
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 167
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09247863f48f6270800000000000000
+      internalID: 8245955623703030027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_18
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 127
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bc51abb90a4e4c0800000000000000
+      internalID: -4259102756883281141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_19
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 123
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436d61ba984a96170800000000000000
+      internalID: 8172243910028351028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_20
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 127
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5075f5f95580d5f20800000000000000
+      internalID: 3412893256455771909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_21
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 127
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea26412e6fda7ad10800000000000000
+      internalID: 2136867824077136558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_22
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 127
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ae51ed1e1aec140800000000000000
+      internalID: 4741905449133402638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_23
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 107
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8286c214a848971c0800000000000000
+      internalID: -4505424222873688024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_24
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 103
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba8a46d986fc94c0800000000000000
+      internalID: -4279274474042651984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_25
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 107
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c1ba522432505d0800000000000000
+      internalID: -3097030401740563367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_26
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 107
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd4ab7768818e940800000000000000
+      internalID: 5325533525178994169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_27
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 107
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe056c1b7ede06b0800000000000000
+      internalID: -5328076688793989388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_28
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 107
+        width: 20
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efaf7eda41745c260800000000000000
+      internalID: 7117172940271516414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_29
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 87
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a626980c2d98c070800000000000000
+      internalID: 8126918340038239913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_30
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 87
+        width: 32
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 640dd133ad23229c0800000000000000
+      internalID: -3953541610136022970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_31
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 87
+        width: 25
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9d7021303fe0770800000000000000
+      internalID: 8579061534700329391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_32
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 67
+        width: 54
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef18a9b3cc17b64a0800000000000000
+      internalID: -6599055706994081282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_33
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 47
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e1de650abe78270800000000000000
+      internalID: 8252823916065398392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_34
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 47
+        width: 73
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de002e98fdfa15d0800000000000000
+      internalID: -3090878949989806375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_VenomSpider-Man_Separation_Anxiety_-_Stage_2_35
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 47
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13f6bcbf57f8b4d0800000000000000
+      internalID: -3118470751394008294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

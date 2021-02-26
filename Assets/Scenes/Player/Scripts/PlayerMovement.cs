@@ -86,7 +86,7 @@ public class PlayerMovement : MonoBehaviour
         float horizontalInput = Input.GetAxisRaw("Horizontal");
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, isGroundLayer);
 
-        if (Input.GetButtonDown("Jump") && Input.GetButton("Vertical") && isGrounded)
+        if (Input.GetButtonDown("Jump")  && isGrounded)
         {
             rb.velocity = Vector2.zero;
             rb.AddForce(Vector2.up * jumpForce);
@@ -116,7 +116,7 @@ public class PlayerMovement : MonoBehaviour
     {
         jumpForce = 5000;
         yield return new WaitForSeconds(2.0f);
-        jumpForce = 2500;
+        jumpForce = 3000;
     }
 
     private void OnTriggerStay2D(Collider2D collision)

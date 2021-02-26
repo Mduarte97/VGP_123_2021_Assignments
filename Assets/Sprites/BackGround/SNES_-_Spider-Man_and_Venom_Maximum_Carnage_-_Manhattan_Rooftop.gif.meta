@@ -1,0 +1,2460 @@
+fileFormatVersion: 2
+guid: ed92bcaac6d18e547923e6911fde2ec8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6631680365115416715
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_0
+  - first:
+      213: -52731694586444013
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_1
+  - first:
+      213: 2756945647659182244
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_2
+  - first:
+      213: 7226699633308745082
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_3
+  - first:
+      213: -7082390954490422323
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_4
+  - first:
+      213: 2624670905449934542
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_5
+  - first:
+      213: -7942018388928470219
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_6
+  - first:
+      213: -3308785164274523458
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_7
+  - first:
+      213: 9152733468618060934
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_8
+  - first:
+      213: -7481143037786215706
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_9
+  - first:
+      213: -5915869344740418431
+    second: Background
+  - first:
+      213: -4245056072244409627
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_11
+  - first:
+      213: 7788319680430071338
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_12
+  - first:
+      213: -4208388356583184050
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_13
+  - first:
+      213: -973748401745790944
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_14
+  - first:
+      213: -6725420494067789309
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_15
+  - first:
+      213: 6591285200979169402
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_16
+  - first:
+      213: -3311132314450497996
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_17
+  - first:
+      213: 5567271512083591676
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_18
+  - first:
+      213: 4938197882862610901
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_19
+  - first:
+      213: -3381994450898127489
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_20
+  - first:
+      213: -4998780083421344854
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_21
+  - first:
+      213: -1742097536905263890
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_22
+  - first:
+      213: 4718286809527331821
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_23
+  - first:
+      213: 8856398979607512162
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_24
+  - first:
+      213: -4109771749724631452
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_25
+  - first:
+      213: 5556887348907898505
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_26
+  - first:
+      213: 858108519068870328
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_27
+  - first:
+      213: -3871450008158314275
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_28
+  - first:
+      213: -7645617669712256466
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_29
+  - first:
+      213: 1297315159803444988
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_30
+  - first:
+      213: 2672252390951691591
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_31
+  - first:
+      213: 906617977723611985
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_32
+  - first:
+      213: -7944423431509319186
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_33
+  - first:
+      213: -2133426485792524699
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_34
+  - first:
+      213: -8943262016293943356
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_35
+  - first:
+      213: -3316361678363546043
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_36
+  - first:
+      213: 6522009839709104161
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_37
+  - first:
+      213: -6972562054392466821
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_38
+  - first:
+      213: 7479104291849644670
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_39
+  - first:
+      213: -4737864602539043644
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_40
+  - first:
+      213: -5570606619560851538
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_41
+  - first:
+      213: 8560456895295259048
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_42
+  - first:
+      213: -4999478438176773532
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_43
+  - first:
+      213: 1875029307995423703
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_44
+  - first:
+      213: -7781665177231083014
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_45
+  - first:
+      213: 9036151097859471946
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_46
+  - first:
+      213: 6289671706157389036
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_47
+  - first:
+      213: 3663173142709224913
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_48
+  - first:
+      213: -7828331800030697900
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_49
+  - first:
+      213: -453199340495262093
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_50
+  - first:
+      213: 7914200260225195522
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_51
+  - first:
+      213: -3051642535424979201
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_52
+  - first:
+      213: 3221897258006265292
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_53
+  - first:
+      213: -2223912369277878265
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_54
+  - first:
+      213: -144467664272747405
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_55
+  - first:
+      213: -1534477454686679265
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_56
+  - first:
+      213: -7648770506764430728
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_57
+  - first:
+      213: 7629501400304967906
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_58
+  - first:
+      213: -5685807342635825270
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_59
+  - first:
+      213: 1818853867914978033
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_60
+  - first:
+      213: 8626346404057692719
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_61
+  - first:
+      213: -4386616412353625786
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_62
+  - first:
+      213: 4494698414757003782
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_63
+  - first:
+      213: 6168807374688696052
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_64
+  - first:
+      213: -484764217569675186
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_65
+  - first:
+      213: -2514253877684352430
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_66
+  - first:
+      213: 5719358014539683295
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_67
+  - first:
+      213: -2209177147863874490
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_68
+  - first:
+      213: 6239225123410147054
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_69
+  - first:
+      213: 8170020979159134456
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_70
+  - first:
+      213: 6199712634031372466
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_71
+  - first:
+      213: -8546115820569183984
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_72
+  - first:
+      213: -3428170990423535424
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_73
+  - first:
+      213: 8971336786161136982
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_74
+  - first:
+      213: -8867499499518989442
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_75
+  - first:
+      213: 1735217443472935290
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_76
+  - first:
+      213: -150077858396447861
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_77
+  - first:
+      213: -4286955610683022457
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_78
+  - first:
+      213: 3895591494713421692
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_79
+  - first:
+      213: 3850131216826240333
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_80
+  - first:
+      213: 1589312940709739965
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_81
+  - first:
+      213: 1471730141673238723
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_82
+  - first:
+      213: 3228368794609402004
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_83
+  - first:
+      213: -9111300928871932913
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_84
+  - first:
+      213: -4939629722451102072
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_85
+  - first:
+      213: 8423306726608590729
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_86
+  - first:
+      213: -8129350716098165337
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_87
+  - first:
+      213: 4832139799377939511
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_88
+  - first:
+      213: -1032522868555458811
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_89
+  - first:
+      213: -8199989072584849674
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_90
+  - first:
+      213: -5725777404291192030
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_91
+  - first:
+      213: 746625779403634983
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_92
+  - first:
+      213: 8164000245087960846
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_93
+  - first:
+      213: 9165490004144954420
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_94
+  - first:
+      213: 4766000308662647235
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_95
+  - first:
+      213: -6993067028421862825
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_96
+  - first:
+      213: 4528652366223950559
+    second: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_97
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_0
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 588
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8023aae726780c50800000000000000
+      internalID: 6631680365115416715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_1
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 572
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31745cb9dc8a44ff0800000000000000
+      internalID: -52731694586444013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 572
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8e8c9a573a24620800000000000000
+      internalID: 2756945647659182244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 572
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d30dd17056a4460800000000000000
+      internalID: 7226699633308745082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 572
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb982573fa46bd90800000000000000
+      internalID: -7082390954490422323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 572
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece65ab4844bc6420800000000000000
+      internalID: 2624670905449934542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 572
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5336c489a5848c190800000000000000
+      internalID: -7942018388928470219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_7
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 572
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2a55d7c65d412d0800000000000000
+      internalID: -3308785164274523458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 588
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684fec0b89a050f70800000000000000
+      internalID: 9152733468618060934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 315
+        width: 596
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eaadde3b04ad2890800000000000000
+      internalID: -7481143037786215706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Background
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 84
+        width: 256
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18cdf11bc2c96eda0800000000000000
+      internalID: -5915869344740418431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_11
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 238
+        width: 121
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eac14a5ef78615c0800000000000000
+      internalID: -4245056072244409627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_12
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 121
+        width: 214
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ed73d2c7ba51c60800000000000000
+      internalID: 7788319680430071338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_13
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4928f0361dc895c0800000000000000
+      internalID: -4208388356583184050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_14
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 50
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028765ddcfc8c72f0800000000000000
+      internalID: -973748401745790944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_15
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 46
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30215f581b18aa2a0800000000000000
+      internalID: -6725420494067789309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_16
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 46
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7017a9d7f2f87b50800000000000000
+      internalID: 6591285200979169402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_17
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 50
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e6cd004be7c02d0800000000000000
+      internalID: -3311132314450497996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_18
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 50
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1f4ed81fbe24d40800000000000000
+      internalID: 5567271512083591676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_19
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 50
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9ac9e8fc0088440800000000000000
+      internalID: 4938197882862610901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_20
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 46
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75ffd927fdb011d0800000000000000
+      internalID: -3381994450898127489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_21
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 50
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab8f51bff3c0aab0800000000000000
+      internalID: -4998780083421344854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_22
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 50
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4cdac2583d2d7e0800000000000000
+      internalID: -1742097536905263890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_23
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 50
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deba94ecad8ba7140800000000000000
+      internalID: 4718286809527331821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_24
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 50
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26443a0e2ff38ea70800000000000000
+      internalID: 8856398979607512162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_25
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 50
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e4abd3e5827f6c0800000000000000
+      internalID: -4109771749724631452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_26
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 50
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98674882a970e1d40800000000000000
+      internalID: 5556887348907898505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_27
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 50
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b626d1d62d98eb00800000000000000
+      internalID: 858108519068870328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_28
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 46
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd06a0abab8d54ac0800000000000000
+      internalID: -3871450008158314275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_29
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 50
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22e954dc3f45e590800000000000000
+      internalID: -7645617669712256466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_30
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 50
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe30dda34df00210800000000000000
+      internalID: 1297315159803444988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_31
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 50
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7452dd0346fb51520800000000000000
+      internalID: 2672252390951691591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_32
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 33
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15be23d4f34f49c00800000000000000
+      internalID: 906617977723611985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_33
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 33
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1e89bfafcbfb190800000000000000
+      internalID: -7944423431509319186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_34
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 33
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5663def1aeb8462e0800000000000000
+      internalID: -2133426485792524699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_35
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 33
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c74e81649623e380800000000000000
+      internalID: -8943262016293943356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_36
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 33
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e2c66df9ae9f1d0800000000000000
+      internalID: -3316361678363546043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_37
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 33
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128a675e465d28a50800000000000000
+      internalID: 6522009839709104161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_38
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 33
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72b195f0cb7c3f90800000000000000
+      internalID: -6972562054392466821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_39
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 33
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a2cc93abd1bc760800000000000000
+      internalID: 7479104291849644670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_40
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 33
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c453cb0f39bf3eb0800000000000000
+      internalID: -4737864602539043644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_41
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 33
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7c2a93bca31b2b0800000000000000
+      internalID: -5570606619560851538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_42
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 33
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a10e17e03adcc670800000000000000
+      internalID: 8560456895295259048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_43
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 33
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46aaf3e49d84e9ab0800000000000000
+      internalID: -4999478438176773532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_44
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 30
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d38386a831750a10800000000000000
+      internalID: 1875029307995423703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_45
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 30
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af93d1610c8f10490800000000000000
+      internalID: -7781665177231083014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_46
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 33
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a7ba44c8bd66d70800000000000000
+      internalID: 9036151097859471946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_47
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 33
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce41657b717694750800000000000000
+      internalID: 6289671706157389036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_48
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 33
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d54fe1a09436d230800000000000000
+      internalID: 3663173142709224913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_49
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 33
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456a64344bd2c5390800000000000000
+      internalID: -7828331800030697900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_50
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 33
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ea659d999e5b9f0800000000000000
+      internalID: -453199340495262093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_51
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 33
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ed6089433e4dd60800000000000000
+      internalID: 7914200260225195522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_52
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 33
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe8586484366a5d0800000000000000
+      internalID: -3051642535424979201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_53
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 33
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdb44e5c7a76bc20800000000000000
+      internalID: 3221897258006265292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_54
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 33
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7004891ab731321e0800000000000000
+      internalID: -2223912369277878265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_55
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 33
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3741e7dbc6fbefdf0800000000000000
+      internalID: -144467664272747405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_56
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 33
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f0e8d82e074bae0800000000000000
+      internalID: -1534477454686679265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_57
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 33
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87252dfbfbb1ad590800000000000000
+      internalID: -7648770506764430728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_58
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 33
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0e58ac91f61e960800000000000000
+      internalID: 7629501400304967906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_59
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 33
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8742e8b854f711b0800000000000000
+      internalID: -5685807342635825270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_60
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 33
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2ea67c4fddd3910800000000000000
+      internalID: 1818853867914978033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_61
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 30
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ab353a950f6b770800000000000000
+      internalID: 8626346404057692719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_62
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 33
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64183cf3d9b9f13c0800000000000000
+      internalID: -4386616412353625786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_63
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 33
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6024a10f460606e30800000000000000
+      internalID: 4494698414757003782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_64
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 33
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f63120af910c9550800000000000000
+      internalID: 6168807374688696052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_65
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 33
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4870f33385c549f0800000000000000
+      internalID: -484764217569675186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_66
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 14
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ac9795b639b1dd0800000000000000
+      internalID: -2514253877684352430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_67
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 17
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5dbefcfcd3f5f40800000000000000
+      internalID: 5719358014539683295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_68
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 17
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644c9a7b61d6751e0800000000000000
+      internalID: -2209177147863874490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_69
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 17
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6fd82613e269650800000000000000
+      internalID: 6239225123410147054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_70
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 17
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0f44e3bceb16170800000000000000
+      internalID: 8170020979159134456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_71
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 17
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8f0fc0bcdc90650800000000000000
+      internalID: 6199712634031372466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_72
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 17
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019b0a1c0f8166980800000000000000
+      internalID: -8546115820569183984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_73
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 17
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0918eb5a0bc60d0800000000000000
+      internalID: -3428170990423535424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_74
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 17
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655778b5647908c70800000000000000
+      internalID: 8971336786161136982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_75
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 17
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b673def2050f480800000000000000
+      internalID: -8867499499518989442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_76
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 17
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79044e321bb41810800000000000000
+      internalID: 1735217443472935290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_77
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 17
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8bd0a1abf0daedf0800000000000000
+      internalID: -150077858396447861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_78
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 17
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783ee59d59ca184c0800000000000000
+      internalID: -4286955610683022457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_79
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 17
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f2d6023dbef0630800000000000000
+      internalID: 3895591494713421692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_80
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 17
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d029d51f96e6530800000000000000
+      internalID: 3850131216826240333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_81
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 17
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd7fe3f2bf5e0610800000000000000
+      internalID: 1589312940709739965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_82
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 14
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c03bab24c2ac6410800000000000000
+      internalID: 1471730141673238723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_83
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 17
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49046a660587dcc20800000000000000
+      internalID: 3228368794609402004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_84
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 17
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cd6e434182e8180800000000000000
+      internalID: -9111300928871932913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_85
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 17
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886375f40f8e27bb0800000000000000
+      internalID: -4939629722451102072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_86
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 14
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987d9a9d6d895e470800000000000000
+      internalID: 8423306726608590729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_87
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 14
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5c668489ebe2f80800000000000000
+      internalID: -8129350716098165337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_88
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 17
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c03f6bb853f0340800000000000000
+      internalID: 4832139799377939511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_89
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 17
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507d84debedbba1f0800000000000000
+      internalID: -1032522868555458811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_90
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 17
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6ce764269c33e80800000000000000
+      internalID: -8199989072584849674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_91
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 14
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22be34a89c3f980b0800000000000000
+      internalID: -5725777404291192030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_92
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 17
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729b089c03c8c5a00800000000000000
+      internalID: 746625779403634983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_93
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 17
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f7baad7fa5c4170800000000000000
+      internalID: 8164000245087960846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_94
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 17
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c1471199c523f70800000000000000
+      internalID: 9165490004144954420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_95
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 17
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c93d35870c342240800000000000000
+      internalID: 4766000308662647235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_96
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 17
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a1b68a692a3fe90800000000000000
+      internalID: -6993067028421862825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES_-_Spider-Man_and_Venom_Maximum_Carnage_-_Manhattan_Rooftop_97
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 17
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2c200555109de30800000000000000
+      internalID: 4528652366223950559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
