@@ -66,7 +66,7 @@ public class EnemyTurret : MonoBehaviour
         }
 
 
-        if (Time.time > timeSinceLastFire + projectileFireRate)
+        if (Time.time > timeSinceLastFire + projectileFireRate && distance <= 50)
         {
             Fire();
             timeSinceLastFire = Time.time;
