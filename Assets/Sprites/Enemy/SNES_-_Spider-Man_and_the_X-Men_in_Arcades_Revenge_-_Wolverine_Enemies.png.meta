@@ -37,7 +37,7 @@ TextureImporter:
     second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_10
   - first:
       213: -4895157513191706889
-    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_11
+    second: clown death
   - first:
       213: -284909455025922699
     second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_12
@@ -109,16 +109,16 @@ TextureImporter:
     second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_34
   - first:
       213: 1123052277750390473
-    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_35
+    second: gjg
   - first:
       213: 2982294719733253788
-    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_36
+    second: Enemy turret 1
   - first:
       213: 5431996069889999034
-    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_37
+    second: Enemy turret 2
   - first:
       213: -8617743231042196895
-    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_38
+    second: Enemy turret proj
   - first:
       213: 1114198095074070261
     second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_39
@@ -157,7 +157,7 @@ TextureImporter:
     second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_50
   - first:
       213: 8340018593002761100
-    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_51
+    second: gjg
   - first:
       213: 8834899459237333508
     second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_52
@@ -193,7 +193,7 @@ TextureImporter:
     second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_62
   - first:
       213: 3050102563576844115
-    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_63
+    second: turret blow up 1
   - first:
       213: 9174495948755582886
     second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_64
@@ -205,7 +205,7 @@ TextureImporter:
     second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_66
   - first:
       213: 7042870001279340852
-    second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_67
+    second: turret blow up
   - first:
       213: 8976687879440939447
     second: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_68
@@ -658,10 +658,10 @@ TextureImporter:
       name: clown run 5
       rect:
         serializedVersion: 2
-        x: 195
-        y: 355
-        width: 45
-        height: 61
+        x: 204
+        y: 364
+        width: 40
+        height: 52
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -781,7 +781,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_11
+      name: clown death
       rect:
         serializedVersion: 2
         x: 451
@@ -1285,15 +1285,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_35
+      name: Enemyturret
       rect:
         serializedVersion: 2
         x: 416
         y: 310
         width: 44
         height: 40
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1306,15 +1306,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_36
+      name: Enemy turret 1
       rect:
         serializedVersion: 2
         x: 472
         y: 297
         width: 44
         height: 48
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1327,15 +1327,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_37
+      name: Enemy turret 2
       rect:
         serializedVersion: 2
         x: 528
         y: 304
         width: 44
         height: 44
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -1348,7 +1348,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_38
+      name: Enemy turret proj
       rect:
         serializedVersion: 2
         x: 593
@@ -1621,7 +1621,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_51
+      name: gjg
       rect:
         serializedVersion: 2
         x: 505
@@ -1873,7 +1873,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_63
+      name: turret blow up 1
       rect:
         serializedVersion: 2
         x: 488
@@ -1957,7 +1957,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SNES_-_Spider-Man_and_the_X-Men_in_Arcades_Revenge_-_Wolverine_Enemies_67
+      name: turret blow up
       rect:
         serializedVersion: 2
         x: 560

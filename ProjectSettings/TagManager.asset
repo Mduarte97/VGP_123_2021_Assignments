@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - Pickups
+  - Enemy
+  - Barrier
+  - Squished
+  - Enemy Projectile
+  - SpidermanProjectile
   layers:
   - Default
   - TransparentFX

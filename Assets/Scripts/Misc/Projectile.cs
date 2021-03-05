@@ -25,18 +25,19 @@ public class Projectile : MonoBehaviour
 
     }
 
-    void OnTriggerEnter2D(Collider2D collision)
+    private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.name != "SpidermanPowerUp")
+        if (collision.gameObject.layer == 3)
         {
+            Destroy(gameObject);
+        }
+
+        if (collision.gameObject.tag == "Enemy" || collision.gameObject.tag == "Squished")
+        {
+            collision.gameObject.GetComponent<EnemyWalker>().IsDead();
             Destroy(gameObject);
         }
     }
 
-    private void OnTriggerEnter(Collider2D collision)
-    {
-       if (collision.gameObject.tag != "Player")
-        Destroy(gameObject);
-    }
 
 }
