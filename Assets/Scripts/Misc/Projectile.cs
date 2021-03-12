@@ -34,6 +34,7 @@ public class Projectile : MonoBehaviour
 
         if (collision.gameObject.tag == "Enemy" || collision.gameObject.tag == "Squished")
         {
+            
             collision.gameObject.GetComponent<EnemyWalker>().IsDead();
             Destroy(gameObject);
         }

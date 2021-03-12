@@ -47,7 +47,7 @@ public class EnemyTurret : MonoBehaviour
     void Update()
     {
         float distance = Vector2.Distance(transform.position, Player.transform.position);
-        Debug.Log(distance);
+       
         if (Time.time >= timeSinceLastFire + projectileFireRate && distance <=50)
         {
             anim.SetBool("Fire", true);
