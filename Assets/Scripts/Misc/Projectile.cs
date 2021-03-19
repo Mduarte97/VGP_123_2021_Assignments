@@ -37,6 +37,9 @@ public class Projectile : MonoBehaviour
             
             collision.gameObject.GetComponent<EnemyWalker>().IsDead();
             Destroy(gameObject);
+
+            
+
         }
     }
 

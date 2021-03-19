@@ -31,6 +31,7 @@ public class PlayerCollision : MonoBehaviour
                 collision.gameObject.GetComponentInParent<EnemyWalker>().IsDead();
                 rb.velocity = Vector2.zero;
                 rb.AddForce(Vector2.up * bounceForce);
+                GameManager.instance.score++;
 
             }
         }
@@ -42,14 +43,16 @@ public class PlayerCollision : MonoBehaviour
         {
             GameManager.instance.lives--;
             Destroy(collision.gameObject);
-           
-           
+
+            
         }
 
         if (collision.gameObject.tag == "Enemy")
         {
             GameManager.instance.lives--;
+
             
+
         }
     }
 }

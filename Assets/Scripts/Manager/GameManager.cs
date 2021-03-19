@@ -5,8 +5,7 @@ using UnityEditor;
 using UnityEngine.SceneManagement;
 public class GameManager : MonoBehaviour
 {
-    public Transform respawnPoint;
-    public GameObject PlayerPrefab;
+   
     static GameManager _instance = null;
     public static GameManager instance
     {
@@ -26,7 +25,7 @@ public class GameManager : MonoBehaviour
     }
 
     public int maxLives = 3;
-    int _lives = 3;
+    int _lives;
     public int lives
     {
         get { return _lives; }
@@ -34,8 +33,8 @@ public class GameManager : MonoBehaviour
         {
             if (_lives > value)
             {
-                
-                //respawn code
+
+                Respawn();
             }
             _lives = value;
             if (_lives > maxLives)
@@ -46,14 +45,15 @@ public class GameManager : MonoBehaviour
             {
 
                 SceneManager.LoadScene("GameOver");
-                score = 0;
-                lives = maxLives;
+                
             }
             Debug.Log("Current Lives are " + _lives);
         }
     }
 
-
+    public GameObject playerInstance;
+    public GameObject playerPrefab;
+    public LevelManger currentLevel;
 
    
     // Start is called before the first frame update
@@ -92,11 +92,54 @@ public class GameManager : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.Backspace))
         {
-#if UNITY_EDITOR
-            EditorApplication.isPlaying = false;
-#else
-            Application.Quit();
-#endif
+            QuitGame();
         }
     }
+
+    public void SpawnPlayer(Transform spawnLocation)
+    {
+        CameraFollow mainCamera = FindObjectOfType<CameraFollow>();
+        // EnemyTurret[] enemyTurrets = FindObjectsOfType<EnemyTurret>();
+        if (mainCamera)
+        {
+            mainCamera.player = Instantiate(playerPrefab, spawnLocation.position, spawnLocation.rotation);
+            playerInstance = mainCamera.player;
+          /*  for (int i = 0; i < enemyTurrets.Length; i++)
+            {
+                enemyTurrets.player = Instantiate(playerPrefab);
+            }
+          */
+        }
+        else
+        {
+            SpawnPlayer(spawnLocation);
+        }
+        
+    }   
+    
+    public void Respawn ()
+    {
+        playerInstance.transform.position = currentLevel.spawnLocation.position;
+    }
+  
+    public void StartGame()
+    {
+        SceneManager.LoadScene("Level");
+    }
+
+    public void QuitGame()
+    {
+        #if UNITY_EDITOR
+        EditorApplication.isPlaying = false;
+        #else
+         Application.Quit();
+      #endif
+    }
+
+    public void ReturnToMenu()
+    {
+        SceneManager.LoadScene("TitleScreen");
+    }
 }
+    
+

@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 4365922049820097818}
   m_Layer: 0
   m_Name: GameManager
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -44,3 +44,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   maxLives: 3
+  playerInstance: {fileID: 0}
+  playerPrefab: {fileID: 897533702156775034, guid: 0e0c0e846c10e454bb46d6a710221e47, type: 3}
+  currentLevel: {fileID: 0}

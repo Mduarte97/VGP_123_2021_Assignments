@@ -68,6 +68,8 @@ public class EnemyWalker : MonoBehaviour
         {
             anim.SetBool("death", true);
             rb.velocity = Vector2.zero;
+
+            GameManager.instance.score++;
         }
     }
 

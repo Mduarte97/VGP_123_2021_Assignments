@@ -152,7 +152,7 @@ MonoBehaviour:
   projectileSpawnPoint: {fileID: 0}
   projectilePrefab: {fileID: 210238564984126849, guid: 82cf3fa093b193c468e923ecc3b05519, type: 3}
   isFacingRight: 1
-  Player: {fileID: 0}
+  player: {fileID: 3825556752697749643, guid: 0e0c0e846c10e454bb46d6a710221e47, type: 3}
   distance: 50
   projectileSpeed: 0
   projectileForce: 100

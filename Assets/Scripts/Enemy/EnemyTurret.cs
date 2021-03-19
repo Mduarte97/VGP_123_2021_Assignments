@@ -16,7 +16,7 @@ public class EnemyTurret : MonoBehaviour
     public Projectile projectilePrefab;
 
     public bool isFacingRight;
-    public Transform Player;
+    public Transform player;
     public float distance;
    
     public float projectileSpeed;
@@ -46,7 +46,7 @@ public class EnemyTurret : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        float distance = Vector2.Distance(transform.position, Player.transform.position);
+        float distance = Vector2.Distance(transform.position, GameManager.instance.playerInstance.transform.position);
        
         if (Time.time >= timeSinceLastFire + projectileFireRate && distance <=50)
         {
@@ -54,12 +54,12 @@ public class EnemyTurret : MonoBehaviour
             timeSinceLastFire = Time.time;
         }
 
-        if (transform.position.x < Player.position.x && !isFacingRight)
+        if (transform.position.x < GameManager.instance.playerInstance.transform.position.x && !isFacingRight)
         {
             flip();
 
         }
-        else if (transform.position.x > Player.position.x && isFacingRight)
+        else if (transform.position.x > GameManager.instance.playerInstance.transform.position.x && isFacingRight)
         {
             flip();
 
