@@ -6,6 +6,7 @@ using UnityEngine;
 public class PlayerFire : MonoBehaviour
 {
     SpriteRenderer spidermanSprite;
+    AudioSource fireAudioSource;
 
     public Transform spawnPointLeft;
     public Transform spawnPointRight;
@@ -13,10 +14,13 @@ public class PlayerFire : MonoBehaviour
     public float projectileSpeed;
     public Projectile projectilePrefab;
 
+    public AudioClip fireSFX;
+
     // Start is called before the first frame update
     void Start()
     {
         spidermanSprite = GetComponent<SpriteRenderer>();
+        
 
         if (projectileSpeed <= 0)
             projectileSpeed = 7.0f;
@@ -29,13 +33,21 @@ public class PlayerFire : MonoBehaviour
     void Update()
     {
         if (Input.GetButtonDown("Fire1"))
+        {
 
             FireProjectile();
-
-
-
-
-
+            if (!fireAudioSource)
+            {
+                fireAudioSource = gameObject.AddComponent<AudioSource>();
+                fireAudioSource.clip = fireSFX;
+                fireAudioSource.loop = false;
+                fireAudioSource.Play();
+            }
+            else
+            {
+                fireAudioSource.Play();
+            }
+        }
     }
 
     void FireProjectile()

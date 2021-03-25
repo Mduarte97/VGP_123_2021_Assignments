@@ -27,9 +27,20 @@ public class CanvasManger : MonoBehaviour
     [Header("Slider")]
     public Slider volSlider;
 
+    AudioSource pauseAudio;
+    public AudioClip pauseSound;
+
     // Start is called before the first frame update
     void Start()
     {
+        if (pauseMenu)
+        {
+           pauseAudio = gameObject.AddComponent<AudioSource>();
+            pauseAudio.clip = pauseSound;
+            pauseAudio.loop = false;
+
+        }
+
         if (startButton)
         {
             startButton.onClick.AddListener(() => GameManager.instance.StartGame());
@@ -70,11 +81,17 @@ public class CanvasManger : MonoBehaviour
     {
         if (pauseMenu)
         {
-            Debug.Log("hi");
             if (Input.GetKeyDown(KeyCode.P))
             {
                 pauseMenu.SetActive(!pauseMenu.activeSelf);
-            }
+
+                if (pauseMenu.activeSelf)
+                {
+                    pauseAudio.Play();
+                }
+            
+        
+        }
 
             if (pauseMenu.activeSelf)
             {

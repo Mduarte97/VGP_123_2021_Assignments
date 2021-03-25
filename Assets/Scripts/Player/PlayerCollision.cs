@@ -51,8 +51,6 @@ public class PlayerCollision : MonoBehaviour
         {
             GameManager.instance.lives--;
 
-            
-
         }
     }
 }

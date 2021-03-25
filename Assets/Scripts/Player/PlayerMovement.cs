@@ -11,6 +11,7 @@ public class PlayerMovement : MonoBehaviour
     Rigidbody2D rb;
     Animator anim;
     SpriteRenderer spidermanSprite;
+    AudioSource jumpAudioSource;
 
     public float speed;
     public int jumpForce;
@@ -18,6 +19,8 @@ public class PlayerMovement : MonoBehaviour
     public LayerMask isGroundLayer;
     public Transform groundCheck;
     public float groundCheckRadius;
+    public AudioClip jumpSFX;
+    
 
 
     // Start is called before the first frame update
@@ -26,6 +29,7 @@ public class PlayerMovement : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
         spidermanSprite = GetComponent<SpriteRenderer>();
+        
 
         if (speed <= 0)
         {
@@ -60,6 +64,17 @@ public class PlayerMovement : MonoBehaviour
         {
             rb.velocity = Vector2.zero;
             rb.AddForce(Vector2.up * jumpForce);
+            if (!jumpAudioSource)
+            {
+                jumpAudioSource = gameObject.AddComponent<AudioSource>();
+                jumpAudioSource.clip = jumpSFX;
+                jumpAudioSource.loop = false;
+                jumpAudioSource.Play();
+            }
+            else
+            {
+                jumpAudioSource.Play();
+            }
         }
 
         rb.velocity = new Vector2(horizontalInput * speed, rb.velocity.y);

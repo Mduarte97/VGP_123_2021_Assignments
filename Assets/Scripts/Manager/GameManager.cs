@@ -5,7 +5,9 @@ using UnityEditor;
 using UnityEngine.SceneManagement;
 public class GameManager : MonoBehaviour
 {
-   
+    public AudioClip deathSFX;
+    AudioSource deathAudioSource;
+
     static GameManager _instance = null;
     public static GameManager instance
     {
@@ -43,8 +45,18 @@ public class GameManager : MonoBehaviour
             }
             else if (_lives <= 0)
             {
-
-                SceneManager.LoadScene("GameOver");
+                if (!deathAudioSource)
+                {
+                    deathAudioSource = gameObject.AddComponent<AudioSource>();
+                    deathAudioSource.clip = deathSFX;
+                    deathAudioSource.loop = false;
+                    deathAudioSource.Play();
+                }
+                else
+                {
+                    deathAudioSource.Play();
+                }
+                SceneManager.LoadScene("GameOver");     
                 
             }
             Debug.Log("Current Lives are " + _lives);
@@ -94,7 +106,11 @@ public class GameManager : MonoBehaviour
         {
             QuitGame();
         }
+
+
+    
     }
+    
 
     public void SpawnPlayer(Transform spawnLocation)
     {

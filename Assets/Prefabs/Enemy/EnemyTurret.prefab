@@ -147,6 +147,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c6de653e064ddf441abb7340bbc0e8a9, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  deathSFX: {fileID: 8300000, guid: 3e72e9657fead604c8e36cf284e4c7d2, type: 3}
   spawnPointLeft: {fileID: 721264359470053402}
   spawnPointRight: {fileID: 0}
   projectileSpawnPoint: {fileID: 0}
@@ -171,7 +172,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0, y: 0.7236858}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0}
@@ -182,5 +183,5 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1.76, y: 1.6}
+  m_Size: {x: 1.76, y: 1.4722899}
   m_EdgeRadius: 0

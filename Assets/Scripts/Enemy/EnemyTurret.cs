@@ -8,6 +8,8 @@ using UnityEngine;
 public class EnemyTurret : MonoBehaviour
 {
 
+    public AudioClip deathSFX;
+    AudioSource deathAudioSource;
 
     SpriteRenderer enemyTurretSprite;
     public Transform spawnPointLeft;
@@ -39,13 +41,15 @@ public class EnemyTurret : MonoBehaviour
 
         if (health <= 0)
         {
-            health = 5;
+            health = 3;
         }
     }
 
     // Update is called once per frame
     void Update()
     {
+        
+
         float distance = Vector2.Distance(transform.position, GameManager.instance.playerInstance.transform.position);
        
         if (Time.time >= timeSinceLastFire + projectileFireRate && distance <=50)
@@ -111,6 +115,8 @@ public class EnemyTurret : MonoBehaviour
 
     }
 
+   
+
     private void OnCollisionEnter2D(Collision2D collision)
     {
 
@@ -119,13 +125,33 @@ public class EnemyTurret : MonoBehaviour
             health--;
             Destroy(collision.gameObject);
 
-            if (health <= 0)
-            {
-                Destroy(gameObject);
-            }
+           
         }
-    }
+        if (health <= 0)
+        {
+            
+            if (!deathAudioSource)
+            {
+                deathAudioSource = gameObject.AddComponent<AudioSource>();
+                deathAudioSource.clip = deathSFX;
+                deathAudioSource.loop = false;
+                deathAudioSource.Play();
+               // Destroy(gameObject);
 
-   
+            }
+            else
+            {
+                deathAudioSource.Play(); 
+
+            }
+
+            transform.position = Vector3.one * 999999999f;
+            
+        }
+       
     
     }
+    
+
+
+}
