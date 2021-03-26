@@ -44,7 +44,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   deathSFX: {fileID: 8300000, guid: 787b9420929cc8d46a8a274b7006159c, type: 3}
-  maxLives: 3
+  maxLives: 2
   playerInstance: {fileID: 0}
   playerPrefab: {fileID: 897533702156775034, guid: 0e0c0e846c10e454bb46d6a710221e47, type: 3}
   currentLevel: {fileID: 0}

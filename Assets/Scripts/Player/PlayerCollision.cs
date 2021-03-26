@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+
 [RequireComponent(typeof(PlayerMovement))]
 public class PlayerCollision : MonoBehaviour
 {
@@ -52,5 +53,7 @@ public class PlayerCollision : MonoBehaviour
             GameManager.instance.lives--;
 
         }
-    }
+
+ 
+}
 }

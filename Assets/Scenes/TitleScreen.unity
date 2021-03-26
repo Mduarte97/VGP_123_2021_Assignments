@@ -989,7 +989,7 @@ Transform:
   m_GameObject: {fileID: 870879365}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 426, y: 129, z: 0}
-  m_LocalScale: {x: 7.150958, y: 5.332487, z: 1}
+  m_LocalScale: {x: 10.994598, y: 5.399143, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 4
@@ -1122,6 +1122,7 @@ MonoBehaviour:
   volText: {fileID: 1291776783}
   scoreText: {fileID: 0}
   volSlider: {fileID: 92277138}
+  pauseSound: {fileID: 0}
 --- !u!82 &975436271
 AudioSource:
   m_ObjectHideFlags: 0

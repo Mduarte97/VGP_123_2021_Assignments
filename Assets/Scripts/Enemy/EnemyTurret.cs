@@ -52,7 +52,7 @@ public class EnemyTurret : MonoBehaviour
 
         float distance = Vector2.Distance(transform.position, GameManager.instance.playerInstance.transform.position);
        
-        if (Time.time >= timeSinceLastFire + projectileFireRate && distance <=50)
+        if (Time.time >= timeSinceLastFire + projectileFireRate && distance <=100)
         {
             anim.SetBool("Fire", true);
             timeSinceLastFire = Time.time;
@@ -70,7 +70,7 @@ public class EnemyTurret : MonoBehaviour
         }
 
 
-        if (Time.time > timeSinceLastFire + projectileFireRate && distance <= 50)
+        if (Time.time > timeSinceLastFire + projectileFireRate && distance <= 100)
         {
             Fire();
             timeSinceLastFire = Time.time;
@@ -136,7 +136,7 @@ public class EnemyTurret : MonoBehaviour
                 deathAudioSource.clip = deathSFX;
                 deathAudioSource.loop = false;
                 deathAudioSource.Play();
-               // Destroy(gameObject);
+               
 
             }
             else
@@ -144,6 +144,7 @@ public class EnemyTurret : MonoBehaviour
                 deathAudioSource.Play(); 
 
             }
+            // Destroy(gameObject);
 
             transform.position = Vector3.one * 999999999f;
             

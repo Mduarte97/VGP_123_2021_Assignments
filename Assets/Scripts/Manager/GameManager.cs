@@ -56,7 +56,9 @@ public class GameManager : MonoBehaviour
                 {
                     deathAudioSource.Play();
                 }
-                SceneManager.LoadScene("GameOver");     
+                SceneManager.LoadScene("GameOver");
+
+                _score = value;
                 
             }
             Debug.Log("Current Lives are " + _lives);
@@ -107,7 +109,8 @@ public class GameManager : MonoBehaviour
             QuitGame();
         }
 
-
+        
+        
     
     }
     
@@ -156,6 +159,8 @@ public class GameManager : MonoBehaviour
     {
         SceneManager.LoadScene("TitleScreen");
     }
+
+     
 }
     
 

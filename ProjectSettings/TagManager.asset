@@ -10,6 +10,7 @@ TagManager:
   - Squished
   - Enemy Projectile
   - SpidermanProjectile
+  - end
   layers:
   - Default
   - TransparentFX

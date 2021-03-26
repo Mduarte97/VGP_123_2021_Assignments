@@ -113,6 +113,11 @@ public class CanvasManger : MonoBehaviour
             livesText.text = GameManager.instance.lives.ToString();
         }
 
+        if (scoreText)
+        {
+            scoreText.text = GameManager.instance.score.ToString();
+        }
+
         if (settingsMenu)
         {
             if (settingsMenu.activeSelf)
@@ -121,10 +126,7 @@ public class CanvasManger : MonoBehaviour
             }
         }
 
-        if (scoreText)
-        {
-            scoreText.text = GameManager.instance.score.ToString();
-        }
+        
         
     }
 
